@@ -8,5 +8,8 @@
 Blog: [http://walterinsh.github.io/](http://walterinsh.github.io/)
 Github: [http://github.com/WalterInSH](http://github.com/WalterInSH)
 
+###关于案例
+限于我的工作经历，本文中的案例仅针对互联网企业风控
+
 ###错误反馈
 如果您发现任何错误，可以留言告诉我，或者发送邮件到 walterinsh@icloud.com
