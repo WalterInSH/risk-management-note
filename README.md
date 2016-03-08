@@ -3,4 +3,10 @@
 这个小册子记录着我学习风险控制的点滴经验，受限于我个人的知识有限，不一定覆盖方方面面。
 
 ###关于我
-2014年6月我开始从事风控相关的工作，和几位优秀的工程师一起组建了唯品会的风控团队，参与开发了
+2014年6月我开始从事风控相关的工作，和几位优秀的工程师一起组建了唯品会的风控团队，每天写写规则引擎、ETL、前端页面。现在在一家创业公司，做数据分析工作。
+
+Blog: [http://walterinsh.github.io/](http://walterinsh.github.io/)
+Github: [http://github.com/WalterInSH](http://github.com/WalterInSH)
+
+###错误反馈
+如果您发现任何错误，可以留言告诉我，或者发送邮件到 walterinsh@icloud.com
