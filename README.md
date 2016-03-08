@@ -1,3 +1,6 @@
-# My Awesome Book
+#风险控制笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这个小册子记录着我学习风险控制的点滴经验，受限于我个人的知识有限，不一定覆盖方方面面。
+
+###关于我
+2014年6月我开始从事风控相关的工作，和几位优秀的工程师一起组建了唯品会的风控团队，参与开发了
