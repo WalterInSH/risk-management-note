@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "google_analytics"
+    ],
+    "pluginsConfig": {}
+}
