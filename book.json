@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "-google_analytics"
+        "-google_analytics",
+        "ga"
     ],
     "pluginsConfig": {}
 }
