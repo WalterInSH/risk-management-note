@@ -27,6 +27,6 @@
 
 图中对可疑的数据会自动高亮，并会推送报警到管理员的手机，方便我们尽快解决问题。
 
-### 阅读更多
+### 了解更多
 
 https://security.alibaba.com/blog/blog.htm?spm=a219k.7962236.0.0.CPNk5K&id=38
