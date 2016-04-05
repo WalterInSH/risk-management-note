@@ -69,8 +69,10 @@
 
 这样的流量通过IP基本就可以断定是恶意流量了，因为用户的请求应该是从ISP的个人IP来，而IDC的流量往往是黑产服务器上的自动脚本。
 
-对于这种情况可以将发现的IP加入黑名单，当然也可以直接将IP段封加入黑名单。
+对于这种情况可以将发现的IP加入黑名单，当然也可以直接将IP段加入黑名单。
 
 ### 了解更多
 
-https://security.ctrip.com/
+携程安全云 https://security.ctrip.com/
+
+阿里云IP表 http://www.tcpiputils.com/browse/as/37963
