@@ -6,6 +6,4 @@
 * [多维度判断](chapter3.md)
 * [限制频率](chapter4.md)
 * [高危名单](chapter5.md)
-* [用户习惯](chapter6.md)
-   * 规则和模型
 
