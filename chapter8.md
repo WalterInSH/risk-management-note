@@ -25,9 +25,9 @@
 
 我们在github上随便搜一下 “smtp password 163.com”，可以搜到大量网易邮箱的账号和密码，随便试了两个，就有一个成功了。
 
-![邮件泄露](mail_leak1.png)
+![邮件泄露](images/mail_leak1.png)
 有趣的是，网易明显对Github做了扫描，并在明显位置给用户了一个提示
 
-![邮件泄露](mail_leak2.png)
+![邮件泄露](images/mail_leak2.png)
 但是这个人的信息还是泄露了，行程一览无余。
-![邮件泄露](mail_leak3.png)
+![邮件泄露](images/mail_leak3.png)
