@@ -9,5 +9,5 @@
 * [用户习惯](chapter6.md)
 * [规则和模型](chapter7.md)
 * [安全从自身做起](chapter8.md)
-* [让安全贯穿产品](chapter9.md)
+* [让风控贯穿产品](chapter9.md)
 
