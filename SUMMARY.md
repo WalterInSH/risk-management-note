@@ -8,5 +8,5 @@
 * [高危名单](chapter5.md)
 * [用户习惯](chapter6.md)
 * [规则和模型](chapter7.md)
-* 产品研发和风控
+* [产品研发和风控](chapter8.md)
 
