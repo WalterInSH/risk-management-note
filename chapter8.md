@@ -12,3 +12,4 @@
 
 ###实例
 
+![空包](images/empty_bag.jpg)
