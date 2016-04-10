@@ -15,4 +15,5 @@
 ![空包](images/empty_bag.jpg)
 
 
-![空包](images/empty_bag2.png)
+![空包新闻](images/empty_bag2.png)
+
