@@ -10,6 +10,7 @@
 
 Howard Marks给风险的定义是：
 >The possibility of permanent loss. A downward fluctuation – which by definition is temporary – doesn’t present a big problem if the investor is able to hold on and come out the other side.
+>
 >风险就是发生永久性损失的概率。一个暂时的向下波动并不是一个大问题，只要投资者可以承受，且之后可以翻盘。
 
 业务方投入资源(包括时间和经费)去做拉新、促销，是为了获取回报，也就是更多用户、更多订单，当然说到底都是为了利润。对应Howard Marks给出的定义，业务方面临的永久性损失是什么？
@@ -26,12 +27,15 @@ Howard Marks给风险的定义是：
 对于这个误区，Howard备忘录中有三点很好：
 
 >Risk means more things can happen than will happen.
+>
 >风险意味着可能发生的事总是多于确定发生的事
 
 >Even though many things can happen, only one will.
+>
 >即便一件事有很多可能性，但最终只有一种会发生
 
 >Knowing the probabilities doesn’t mean you know what’s going to happen.
+>
 >知道发生的概率不意味着你知道接下来会发生什么
 
 （未完待续）
