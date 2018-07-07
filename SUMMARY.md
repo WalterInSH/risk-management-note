@@ -13,4 +13,7 @@
 * [再谈利益](chapter10.md)
 * [安全从自身做起](chapter11.md)
 * [让风控贯穿产品](chapter12.md)
-* [写在最后](chapter13.md)
+* [建设风控大数据团队](chapter13.md)
+* [案例：爱奇艺业务风控系统](chapter14.md)
+* [从金融角度聊聊业务风险](chapter15.md)
+* [写在最后](chapter16.md)
